@@ -76,7 +76,6 @@ Tracks which cards players choose for their decks. The **faction** column lets y
 | Wyldspeaker | OutcastKingsguard |
 | WyrdbowSentinel | Painseeker |
 
-*More factions coming soon!*
 
 ### Feedback (Optional)
 | Data Point | Description |
