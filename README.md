@@ -5,7 +5,7 @@
 
 ## What This System Does
 
-This playtest data collection system automatically captures detailed game statistics from your Wyldwood sessions and sends them to a Google Sheets database. This allows you to:
+This playtest data collection system automatically captures detailed game statistics from Wyldwood match sessions and sends them to a Google Sheets database. This allows you to:
 
 - **Track balance over time** — See which factions win more often and by how much
 - **Identify problematic cards** — Find cards that appear in winning decks too frequently (or never)
